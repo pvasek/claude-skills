@@ -13,5 +13,6 @@
     "claude-code",
     "skills",
     "productivity"
-  ]
+  ],
+  "skills": "./skills/"
 }
