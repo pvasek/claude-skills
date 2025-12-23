@@ -1,0 +1,17 @@
+{
+  "name": "pvasek-skills",
+  "version": "0.0.0",
+  "description": "Collection of Claude Code skills by Pavel Vasek",
+  "author": {
+    "name": "Pavel Vasek",
+    "url": "https://github.com/pvasek"
+  },
+  "homepage": "https://github.com/pvasek/claude-skills",
+  "repository": "https://github.com/pvasek/claude-skills",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "skills",
+    "productivity"
+  ]
+}

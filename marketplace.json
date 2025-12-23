@@ -1,0 +1,22 @@
+{
+  "name": "pvasek-skills-marketplace",
+  "metadata": {
+    "description": "Collection of Claude Code skills by Pavel Vasek"
+  },
+  "owner": {
+    "name": "Pavel Vasek"
+  },
+  "plugins": [
+    {
+      "name": "pvasek-skills",
+      "source": ".",
+      "description": "Collection of Claude Code skills including C# code analysis, and more.",
+      "version": "0.0.0",
+      "author": {
+        "name": "Pavel Vasek"
+      },
+      "keywords": ["claude-code", "skills"],
+      "category": "development"
+    }
+  ]
+}
