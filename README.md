@@ -4,16 +4,14 @@ Pre-built skills for Claude Code.
 
 ## Installation
 
-### As a Plugin (recommended)
-
-```bash
-/plugin add pvasek/claude-skills
-```
-
-### As a Marketplace
-
+1. Add the marketplace:
 ```bash
 /plugin marketplace add pvasek/claude-skills
+```
+
+2. Install a plugin:
+```bash
+/plugin install csharp-expert@pvasek/claude-skills
 ```
 
 ## Available Skills
