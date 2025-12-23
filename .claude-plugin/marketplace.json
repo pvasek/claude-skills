@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "pvasek-skills",
-      "source": ".",
+      "source": "./",
       "description": "Collection of Claude Code skills including C# code analysis, and more.",
       "version": "0.0.0",
       "author": {
