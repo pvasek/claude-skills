@@ -60,4 +60,4 @@ Skills are published here via CI from their source repos.
 
 ## License
 
-MIT
+This project is licensed under the [MIT License](LICENSE.md).
